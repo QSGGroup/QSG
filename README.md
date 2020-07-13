@@ -17,6 +17,7 @@ The Tafseer's that were referred to were:
 * Tafsir -e-Noor.
 * Tafsir-e-Namoona
 * The Study Qur'an \(By Hossein Nasr\)
+* Tafheemul Quran
 
 
 
